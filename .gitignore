@@ -61,3 +61,21 @@ Thumbs.db
 
 # Azure
 azure_credentials.json
+azure_config.json
+
+# Firebase
+*firebase-adminsdk*.json
+firebase_key.json
+
+# Config files with sensitive information
+config/azure_config.json
+config/firebase_key.json
+
+# Mobile build files
+.buildozer/
+build.log
+buildozer.spec
+
+# Flet build artifacts
+flet_build_config.json
+manifest.json

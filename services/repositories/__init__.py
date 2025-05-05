@@ -1,0 +1,5 @@
+# Import repositories
+from services.repositories import firebase_user_repository
+from services.repositories import firebase_incident_repository
+from services.repositories import firebase_report_repository
+from services.repositories import firebase_settings_repository
